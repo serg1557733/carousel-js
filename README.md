@@ -4,7 +4,7 @@ using
 
 html 
 
-<div class="offer__slider">
+<!-- <div class="offer__slider">
         <div class="offer__slider-counter">
             <div class="offer__slider-prev">
                 <img src="img/slider/left.svg" alt="prev">
@@ -31,7 +31,7 @@ html
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
     and pure JS function 
 
