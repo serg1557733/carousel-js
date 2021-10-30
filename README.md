@@ -1,10 +1,11 @@
 JavaScript carousel code
+![image](https://user-images.githubusercontent.com/72445490/139540609-d64c40c8-1c20-4771-a28b-0bb9e8d0b3fd.png)
 
 using 
 
 html 
 
-<!-- <div class="offer__slider">
+<div class="offer__slider">
         <div class="offer__slider-counter">
             <div class="offer__slider-prev">
                 <img src="img/slider/left.svg" alt="prev">
@@ -31,7 +32,7 @@ html
                 </div>
             </div>
         </div>
-    </div> -->
+ </div>
 
     and pure JS function 
 
